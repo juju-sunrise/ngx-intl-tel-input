@@ -20,10 +20,10 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "16.x",
-    "@angular/common": "16.x",
+    "@angular/common": "8.x - 16.x",
     "@angular/compiler": "16.x",
-    "@angular/core": "16.x",
-    "@angular/forms": "16.x",
+    "@angular/core": "8.x - 16.x",
+    "@angular/forms": "8.x - 16.x",
     "@angular/platform-browser": "16.x",
     "@angular/platform-browser-dynamic": "16.x",
     "@angular/router": "16.x",
@@ -67,8 +67,8 @@
     "webpack-bundle-analyzer": "^4.10.1"
   },
   "peerDependencies": {
-    "@angular/common": "8.x - 16.x",
-    "@angular/core": "8.x - 16.x",
-    "@angular/forms": "8.x - 16.x"
+    "@angular/common": "16.x",
+    "@angular/core": "16.x",
+    "@angular/forms": "16.x"
   }
 }
