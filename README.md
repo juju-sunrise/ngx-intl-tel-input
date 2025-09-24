@@ -18,6 +18,7 @@ Validation with [google-libphonenumber](https://github.com/ruimarinho/google-lib
 
 | ngx-intl-tel-input | Angular         | ngx-bootstrap |
 | ------------------ |-----------------| ------------- |
+| 19.x.x             | >= 19.x.x       | >= 19.0.0     |
 | 18.x.x             | >= 18.x.x       | >= 18.0.0     |
 | 17.x.x             | >= 17.x.x       | >= 12.0.0     |
 | 16.x.x             | >= 16.x.x       | >= 11.0.0     |
