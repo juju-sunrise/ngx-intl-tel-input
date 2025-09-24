@@ -1,5 +1,5 @@
 {
-  "name": "ngx-intl-tel-input",
+  "name": "@justin-s/ngx-intl-tel-input",
   "version": "18.0.0",
   "peerDependencies": {
     "@angular/common": ">= 18.0.0",
@@ -11,12 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/webcat12345/ngx-intl-tel-input.git"
+    "url": "git+https://github.com/juju-sunrise/ngx-intl-tel-input.git"
   },
   "author": {
     "name": "webcat12345",
     "email": "webcat91@gmail.com"
   },
+  "contributors": [
+    {
+      "name": "justin-s"
+    }
+  ],
   "keywords": [
     "angular",
     "angular 2",
