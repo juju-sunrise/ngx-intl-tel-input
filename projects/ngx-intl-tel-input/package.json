@@ -1,13 +1,13 @@
 {
   "name": "@justin-s/ngx-intl-tel-input",
-  "version": "19.0.0",
+  "version": "20.0.0",
   "peerDependencies": {
-    "@angular/common": ">= 19.0.0",
-    "@angular/core": ">= 19.0.0",
-    "@angular/forms": ">= 19.0.0",
+    "@angular/common": ">= 20.0.0",
+    "@angular/core": ">= 20.0.0",
+    "@angular/forms": ">= 20.0.0",
     "google-libphonenumber": "^3.0.0",
     "intl-tel-input": "^19.0.0",
-    "ngx-bootstrap": ">= 19.0.0"
+    "ngx-bootstrap": ">= 20.0.0"
   },
   "repository": {
     "type": "git",
@@ -37,6 +37,7 @@
     "ng17",
     "ng18",
     "ng19",
+    "ng20",
     "angular 8",
     "angular 9",
     "angular 10",
@@ -49,6 +50,7 @@
     "angular 17",
     "angular 18",
     "angular 19",
+    "angular 20",
     "intl-tel-input",
     "phone number",
     "validation"
